@@ -21,6 +21,7 @@
  *		 -lcrypto
  * fesign --module opensc-pkcs11.so --pin 648219 --slotid 1 --keyid 00a0 \
  *	  --infile inject-dukpt-ik
+ *	  all good
  */
 
 #include <stdio.h>
